@@ -1,0 +1,18 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="PrimeBacking.Api.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/" />
+  <Folder Name="/src/Modules/Accounts/">
+    <Project Path="../Modules/Accounts/Modules.Accounts.Application/Modules.Accounts.Application.csproj" Id="8198d393-5814-403b-b2db-feb851ad5892" />
+    <Project Path="../Modules/Accounts/Modules.Accounts.Domain/Modules.Accounts.Domain.csproj" Id="0303c322-b956-41b0-a5b1-6494d449691a" />
+    <Project Path="../Modules/Accounts/Modules.Accounts.Infrastructure/Modules.Accounts.Infrastructure.csproj" Id="4b7f2ced-938a-4c83-bd45-5b0e6b96941d" />
+  </Folder>
+  <Folder Name="/src/Modules/Transfers/">
+    <Project Path="../Modules/Transfers/Modules.Transfers.Application/Modules.Transfers.Application.csproj" Id="f1b8cb87-cd2c-46dd-a9f3-f8574c386be7" />
+    <Project Path="../Modules/Transfers/Modules.Transfers.Domain/Modules.Transfers.Domain.csproj" Id="26fd2f2b-3183-4f66-a71e-53211432c024" />
+    <Project Path="../Modules/Transfers/Modules.Transfers.Infrastructure/Modules.Transfers.Infrastructure.csproj" Id="b773da02-b221-4ed1-bdef-baf39da1a3b2" />
+  </Folder>
+  <Folder Name="/src/Shared/" />
+  <Folder Name="/tests/" />
+</Solution>
