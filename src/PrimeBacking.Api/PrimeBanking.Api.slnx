@@ -1,6 +1,9 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="../../docker-compose.yml" />
+  </Folder>
   <Folder Name="/src/">
-    <Project Path="PrimeBacking.Api.csproj" />
+    <Project Path="PrimeBanking.Api.csproj" />
   </Folder>
   <Folder Name="/src/Modules/" />
   <Folder Name="/src/Modules/Accounts/">

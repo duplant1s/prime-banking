@@ -1,0 +1,19 @@
+root = true
+
+[*.cs]
+
+dotnet_diagnostic.CS1591.severity = warning
+
+dotnet_diagnostic.SA1600.severity = warning
+
+dotnet_diagnostic.SA1601.severity = warning
+
+dotnet_diagnostic.SA1200.severity = none
+
+dotnet_diagnostic.SA1633.severity = none
+
+dotnet_diagnostic.SA1101.severity = none
+
+dotnet_diagnostic.SA1413.severity = none
+
+dotnet_diagnostic.SA1313.severity = none
